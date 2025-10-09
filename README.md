@@ -20,7 +20,7 @@ You can run the notebook directly in Google Colab by clicking the badge below:
 ### Prerequisites (for Colab)
 
 - A Google account
-- (Optional) Your own copy of the IMDB Top 1000 dataset, uploaded to your Google Drive
+- Your own copy of the IMDB Top 1000 dataset, uploaded to your Google Drive
 
 ### Steps
 
