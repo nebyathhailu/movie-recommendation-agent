@@ -64,7 +64,3 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 
 - Repository: [nebyathhailu/movie-recommendation-agent](https://github.com/nebyathhailu/movie-recommendation-agent)
 - Owner: [nebyathhailu](https://github.com/nebyathhailu)
-
----
-
-*This README is a template based on available information. Please update details as you develop your project further!*
